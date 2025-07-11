@@ -1,6 +1,6 @@
 bot.name:
   user_info_find_bot
 bot.token:
-  7163511047:AAFtyJ5r6V6OX3iDsKOnXgHlZRTK5eglaSg
+ token
 server:
   port: 8000
